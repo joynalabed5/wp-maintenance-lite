@@ -1,0 +1,11 @@
+.ml-container {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    text-align:center;
+    font-family:system-ui, sans-serif;
+}
+.ml-container h1 {font-size:2.5rem; margin-bottom:1rem;}
+.ml-container p {max-width:500px; line-height:1.6;}
